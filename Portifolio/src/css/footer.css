@@ -1,0 +1,16 @@
+.footer {
+    margin-top: 7rem;
+    text-align: center;
+    background-color: #383838;
+}
+
+.footer .container {
+    padding: 5rem 0;
+}
+
+.footer h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-bottom: 20px
+}
